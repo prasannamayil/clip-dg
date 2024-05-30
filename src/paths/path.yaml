@@ -1,0 +1,7 @@
+# Has all re-useable paths of datasets, embeddings, etc.
+# Usage, in datasts, give your dataset name and path
+datasets:
+  dataset:
+
+
+

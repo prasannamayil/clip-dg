@@ -1,0 +1,4 @@
+# format dataset_name: class (0-natural, 1, rendition, 2-ambiguous)
+label_mapping:
+  dataset: 0  # format dataset_name: class (0-natural, 1, rendition, 2-ambiguous)
+

@@ -1,0 +1,8 @@
+models_eval:
+  - best
+directory:
+  -
+batch_size:
+  -
+eval_data:  # names as a list
+  -

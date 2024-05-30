@@ -1,0 +1,9 @@
+sample:
+  - random
+  - random
+directory:
+  -
+eval_data:
+  - laion200m
+use_preds:
+  - False
